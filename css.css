@@ -1,0 +1,17 @@
+body{
+background-color: aquamarine;
+color:blue;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+text-align: center;
+font-size: 25px;
+background-color: aquamarine
+}
+#Videos{
+background: linear-gradient ( #D50000 30%, #689F38 50% );
+}
+img{
+border-style: inset;
+border-color:aquamarine;
+}
